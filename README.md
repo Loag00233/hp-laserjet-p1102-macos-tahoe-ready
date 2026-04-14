@@ -41,7 +41,7 @@ No driver files were modified.
 ## Do it yourself / Сделать самому
 
 If you prefer to build the package yourself, follow the instructions from  
-[pavelbinar's gist](https://gist.github.com/pavelbinar/e14bb47f98768d83828bdee89a47490e),  
+[pavelbinar's gist](https://gist.github.com/pavelbinar/e14bb47f98768d83828bdee89a47490e) — all credits go to him. 
 changing the version to `'27.0'` instead of `'16.0'`.
 
 ---
@@ -50,3 +50,6 @@ changing the version to `'27.0'` instead of `'16.0'`.
 
 Unofficial workaround, not supported by HP. Use at your own risk.  
 Неофициальное решение, не поддерживается HP. Используйте на свой страх и риск.
+
+**Credits:** based on [pavelbinar's gist](https://gist.github.com/pavelbinar/e14bb47f98768d83828bdee89a47490e) for macOS Sequoia.
+
